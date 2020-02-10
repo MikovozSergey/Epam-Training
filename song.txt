@@ -13,6 +13,7 @@ Here we are now, entertain us
 I feel stupid and contagious
 Here we are now, entertain us
 A mulatto, an albino, a mosquito, my libido
+<<<<<<< HEAD
 Yeah, hey
 
 I'm worse at what I do best
@@ -50,3 +51,6 @@ Here we are now, entertain us
 A mulatto, an albino, a mosquito, my libido
 A denial, a denial, a denial, a denial, a denial
 A denial, a denial, a denial, a denial
+=======
+Yeah, hey
+>>>>>>> 188e9b5... add first half of my favorite song
